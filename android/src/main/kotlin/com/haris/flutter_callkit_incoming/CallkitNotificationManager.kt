@@ -1,4 +1,4 @@
-package com.hiennv.flutter_callkit_incoming
+package com.haris.flutter_callkit_incoming
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -29,7 +29,7 @@ import androidx.core.app.ActivityCompat
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.core.app.Person
-import com.hiennv.flutter_callkit_incoming.widgets.CircleTransform
+import com.haris.flutter_callkit_incoming.widgets.CircleTransform
 import com.squareup.picasso.OkHttp3Downloader
 import com.squareup.picasso.Picasso
 import com.squareup.picasso.Target

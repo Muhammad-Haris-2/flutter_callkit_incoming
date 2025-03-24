@@ -65,7 +65,7 @@ Our top sponsors are shown below!
       ```
       The following rule needs to be added in the proguard-rules.pro to avoid obfuscated keys.
       ```
-        -keep class com.hiennv.flutter_callkit_incoming.** { *; }
+        -keep class com.haris.flutter_callkit_incoming.** { *; }
       ```
     * iOS
       * Info.plist

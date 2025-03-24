@@ -31,7 +31,7 @@ android {
     compileSdk 34
 
     if (project.android.hasProperty("namespace")) {
-        namespace "com.hiennv.flutter_callkit_incoming"
+        namespace "com.haris.flutter_callkit_incoming"
     }
 
     kotlin {

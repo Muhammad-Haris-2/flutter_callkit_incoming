@@ -22,7 +22,7 @@
         android:orientation="vertical">
 
 
-        <com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout
+        <com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout
             android:id="@+id/llBackgroundAnimation"
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -97,7 +97,7 @@
 
             </LinearLayout>
 
-        </com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout>
+        </com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout>
 
 
         <LinearLayout
@@ -116,7 +116,7 @@
                 android:orientation="vertical"
                 tools:ignore="UseCompoundDrawables">
 
-                <com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout
+                <com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout
                     android:layout_width="@dimen/size_button_x2_5"
                     android:layout_height="@dimen/size_button_x2_5"
                     app:ripple_amount="4"
@@ -144,7 +144,7 @@
                         android:textColor="@color/action_text"
                         android:textSize="@dimen/size_text_action" />
 
-                </com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout>
+                </com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout>
 
             </LinearLayout>
 
@@ -160,7 +160,7 @@
                 tools:ignore="UseCompoundDrawables">
 
 
-                <com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout
+                <com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout
                     android:layout_width="@dimen/size_button_x2_5"
                     android:layout_height="@dimen/size_button_x2_5"
                     app:ripple_amount="4"
@@ -190,7 +190,7 @@
                         android:textSize="@dimen/size_text_action" />
 
 
-                </com.hiennv.flutter_callkit_incoming.widgets.RippleRelativeLayout>
+                </com.haris.flutter_callkit_incoming.widgets.RippleRelativeLayout>
 
             </LinearLayout>
 
